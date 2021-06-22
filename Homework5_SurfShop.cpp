@@ -27,7 +27,7 @@ void ShowUsage() {		//a function to show the user how to use the program.
 	cout << "To show program usage 'S'" << endl;
 	cout << "To purchase a surdboard press 'P'" << endl;
 	cout << "To display current purchases press 'C'" << endl;
-	cout << "To sisplay total amout due press 'T'" << endl;
+	cout << "To display total amout due press 'T'" << endl;
 	cout << "To quit press 'Q' " << endl;
 	cout << endl;
 
